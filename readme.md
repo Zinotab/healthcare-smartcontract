@@ -1,6 +1,11 @@
 ### Healthcare Contracts Using Truffle
 
-A decentralized application for storing healthcare records with automatic doctor payments, 
+A decentralized application for storing healthcare records with automatic doctor payments,that :
+- Allows people to add records by paying a fee.
+- Sends the fee to the contract owner (doctor).
+- Lets people view records by ID.
+- Allows the doctor to change the fee. 
+
 built with:
 
 - Solidity smart contracts
@@ -39,3 +44,4 @@ built with:
 - Automatic 0.01 ETH payment to doctors per record
 - View record history with timestamps
 - MetaMask integration
+
