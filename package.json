@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "frontend folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zinotab/healthcare-smartcontract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zinotab/healthcare-smartcontract/issues"
+  },
+  "homepage": "https://github.com/Zinotab/healthcare-smartcontract#readme",
+  "devDependencies": {
+    "bootstrap": "^5.3.5",
+    "parcel": "^2.14.4",
+    "web3": "^4.16.0"
+  }
+}
